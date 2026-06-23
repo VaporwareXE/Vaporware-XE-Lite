@@ -356,7 +356,6 @@ $script:Resources = @{
             "IPLeak" = "https://ipleak.net/",
             "BrowserLeaks" = "https://browserleaks.com/",
             "TrackerControl (Android)" = "https://trackercontrol.org/",
-            "AURA" = "https://www.aura.com/"
         }
         "Metadata Removal" = @{
             "ExifTool" = "https://exiftool.org/",
